@@ -13,4 +13,14 @@ Inheritance
 * process where one obj aquire prop of another.
 * heirarchy -- objs at bottom on need to define what makes them unique.
 
+Double vs Float vs Decimal
+* float and double used for non-natural numbers.
+* decimal used for natural numbers.
+* float: 7 digits (32 bit)
+* double: 15-16 digits (64 bit)
+* decimal: 28-29 sig digits (128 bit)
+
+Identifiers:
+* if it's a reserved keyword, prefix with @
+
 
