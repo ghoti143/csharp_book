@@ -1,4 +1,4 @@
-# Operators
+# Ch. 4 -- Operators
 
 ## Arithmetic
 * % is modulus or remainder operator.
